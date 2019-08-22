@@ -1,6 +1,7 @@
 # Opencv_Resize_Padding
 
 ## To Know How To Use Opencv , Os , Numpy , Matplotlib Resize and Pqdding
+## 中文解釋放在jupyter notebook裡面
 
 
 ### Opnecv Read Image & Write Image
